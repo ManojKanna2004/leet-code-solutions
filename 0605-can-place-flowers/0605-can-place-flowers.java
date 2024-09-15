@@ -21,7 +21,7 @@ class Solution {
                     count++;
                 }
             }
-        }System.out.print(count);
+        }
         if(count>=n){
             return true;
             
