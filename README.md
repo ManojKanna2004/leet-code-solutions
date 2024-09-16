@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
