@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
