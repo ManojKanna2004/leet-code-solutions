@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0507-perfect-number) |
+| [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0070-climbing-stairs) |
+| [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
