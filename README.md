@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
 ## Brainteaser
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
