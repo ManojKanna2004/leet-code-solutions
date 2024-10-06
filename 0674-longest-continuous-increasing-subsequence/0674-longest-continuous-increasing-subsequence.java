@@ -4,8 +4,8 @@ class Solution {
             return 0;
         }
         
-        int max = 1;
-        int count = 1;
+        int max = 1,count=1;
+        
         
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] > nums[i - 1]) {
