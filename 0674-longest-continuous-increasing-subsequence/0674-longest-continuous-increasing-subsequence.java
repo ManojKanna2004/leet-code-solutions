@@ -15,7 +15,6 @@ class Solution {
                 max=count;
             }
         }
-        System.out.print(count);
         return max;
         
        
