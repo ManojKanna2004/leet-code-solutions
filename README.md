@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 ## Heap (Priority Queue)
 |  |
