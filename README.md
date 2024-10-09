@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0053-maximum-subarray) |
+| [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -108,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
