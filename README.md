@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [0978-valid-mountain-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
