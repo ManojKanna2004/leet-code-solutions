@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
