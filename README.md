@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
@@ -94,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Simulation
 |  |
 | ------- |
