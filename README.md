@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2556-convert-the-temperature](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
