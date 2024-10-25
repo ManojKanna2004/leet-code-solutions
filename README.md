@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
+| [0812-rotate-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [2032-largest-odd-number-in-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
