@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
+| [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
