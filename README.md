@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1651-shuffle-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1651-shuffle-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
