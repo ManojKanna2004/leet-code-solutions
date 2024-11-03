@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
+| [1642-water-bottles](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2698-find-the-array-concatenation-value) |
