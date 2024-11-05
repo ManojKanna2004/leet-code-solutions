@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1651-shuffle-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1651-shuffle-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
