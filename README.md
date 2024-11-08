@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
