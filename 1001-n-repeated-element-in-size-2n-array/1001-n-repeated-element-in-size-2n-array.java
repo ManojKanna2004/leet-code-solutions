@@ -1,15 +1,12 @@
 class Solution {
     public int repeatedNTimes(int[] nums) {
         Arrays.sort(nums);
-        for (int i = 1; i < nums.length; ++i){
-            int temp = nums[i];
-            int tempo = nums[i-1];
-            if (temp == tempo)
-            return temp;
-            
+        int i=0;
+        for(i=0;i<nums.length;i++){
+        if(nums[i]==nums[i+1])
+        return nums[i];
         }
-        return -1;
-
         
+        return 0;
     }
 }
