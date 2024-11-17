@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
+| [0782-jewels-and-stones](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
+| [0782-jewels-and-stones](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
