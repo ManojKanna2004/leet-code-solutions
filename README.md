@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Brainteaser
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1651-shuffle-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
