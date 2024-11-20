@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1651-shuffle-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3379-score-of-a-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3379-score-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Heap (Priority Queue)
 |  |
