@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1395-minimum-time-visiting-all-points) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
