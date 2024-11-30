@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1642-water-bottles) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0412-fizz-buzz) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1610-xor-operation-in-an-array) |
