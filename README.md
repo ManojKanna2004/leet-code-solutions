@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2308-divide-array-into-equal-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2698-find-the-array-concatenation-value](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2308-divide-array-into-equal-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2308-divide-array-into-equal-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1610-xor-operation-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
 |  |
 | ------- |
