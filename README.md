@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1168-duplicate-zeros](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1395-minimum-time-visiting-all-points) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
+| [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 ## Trie
 |  |
