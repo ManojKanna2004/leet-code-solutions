@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
