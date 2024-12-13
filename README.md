@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
+| [0861-flipping-an-image](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0861-flipping-an-image) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0861-flipping-an-image](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
