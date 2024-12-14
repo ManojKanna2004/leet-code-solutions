@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1236-n-th-tribonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
