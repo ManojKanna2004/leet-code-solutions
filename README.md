@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1651-shuffle-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
