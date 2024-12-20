@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1044-find-common-characters) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1168-duplicate-zeros](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0812-rotate-string) |
+| [1044-find-common-characters](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1651-shuffle-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1651-shuffle-string) |
