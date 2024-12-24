@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0367-valid-perfect-square) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
