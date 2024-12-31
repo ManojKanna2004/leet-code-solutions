@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
