@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0412-fizz-buzz) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0861-flipping-an-image) |
