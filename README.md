@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1013-fibonacci-number) |
