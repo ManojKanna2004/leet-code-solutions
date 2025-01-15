@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0605-can-place-flowers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0782-jewels-and-stones) |
@@ -327,10 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Interactive
 |  |
