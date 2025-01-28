@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2698-find-the-array-concatenation-value](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2698-find-the-array-concatenation-value) |
+| [2714-left-and-right-sum-differences](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/3226-minimum-number-game) |
@@ -344,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
