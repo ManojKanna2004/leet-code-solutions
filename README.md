@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1395-minimum-time-visiting-all-points](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1635-number-of-good-pairs) |
@@ -355,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
