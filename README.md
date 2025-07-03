@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1013-fibonacci-number) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
