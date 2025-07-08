@@ -23,12 +23,6 @@ class Solution {
             head=head.next;
         }
         arr[i]= head.val;
-        System.out.print(i);
-
-        for(int j : arr){
-        System.out.print(j);
-
-        }
         int l=0,r=c-1;
         while(l<r){
             if(arr[l]!=arr[r]){
