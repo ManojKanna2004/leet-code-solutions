@@ -18,11 +18,10 @@ class Solution {
         }
         int arr[] =new int[c];
         int i=0;
-         while(head.next!=null){
+         while(head!=null){
            arr[i++]= head.val;
             head=head.next;
         }
-        arr[i]= head.val;
         int l=0,r=c-1;
         while(l<r){
             if(arr[l]!=arr[r]){
