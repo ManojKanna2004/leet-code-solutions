@@ -12,24 +12,29 @@ class Solution {
     public boolean isPalindrome(ListNode head) {
         ListNode temp=head;
         int c=0;
-        while(temp!=null){
-            temp=temp.next;
+        while(temp != null){
             c++;
+            temp=temp.next;
         }
-        int arr[] =new int[c];
-        int i=0;
-         while(head!=null){
-           arr[i++]= head.val;
-            head=head.next;
+       int arr[] = new int[c];
+       int i=0;
+       while(head!=null){
+        arr[i]=head.val;
+        head=head.next;
+        i++;
+       }
+       int l=0, r=c-1;
+       while(l<r){
+        if(arr[l]!=arr[r]){
+            return false;
         }
-        int l=0,r=c-1;
-        while(l<r){
-            if(arr[l]!=arr[r]){
-                return false;
-            }
-            l++;
-            r--;
-        }
-        return true;
+        l++;
+        r--;
+       }
+       return true;
+
+       
+       
+
     }
 }
