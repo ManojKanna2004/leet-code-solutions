@@ -11,8 +11,8 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         ListNode temp=head;
-        int c=1;
-        while(temp.next!=null){
+        int c=0;
+        while(temp!=null){
             temp=temp.next;
             c++;
         }
