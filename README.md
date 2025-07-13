@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0070-climbing-stairs) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1086-divisor-game) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1217-relative-sort-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
