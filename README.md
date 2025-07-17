@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0496-next-greater-element-i) |
