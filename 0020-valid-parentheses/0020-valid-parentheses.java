@@ -23,9 +23,10 @@ class Solution {
             }
 
             
+        }if (!sh.isEmpty()){
+            return false;
         }
-        if(!sh.isEmpty())
-        return false;
+        
         
         
     return true;
