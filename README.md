@@ -309,10 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -399,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
