@@ -310,11 +310,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -405,8 +407,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
