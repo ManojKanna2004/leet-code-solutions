@@ -1,12 +1,15 @@
 class Solution {
     public int fib(int n) {
-        if (n <= 1) return n;
-        int a = 0, b = 1;
-        for (int i = 2; i <= n; i++) {
-            int temp = b;
-            b = a + b;
-            a = temp;
-        }
-        return b;
+        int[] a=new int[n+1];
+        if(n<=0)return 0;
+        a[0]=0;
+        a[1]=1;
+        return fib(n, a);
+    }
+    public int fib(int n,int[] dp) {
+        if(n<0)return 0;
+        if(dp[n]!=0)return dp[n];
+        dp[n]=fib(n-1, dp)+fib(n-2, dp);
+        return dp[n];
     }
 }
