@@ -1,16 +1,16 @@
 class Solution {
     public int numIslands(char[][] g) {
-        int co=0;
+        int c=0;
 
         for(int i=0;i<g.length;i++){
              for(int j=0;j<g[0].length;j++){
                 if(g[i][j]=='1'){
                     makezero(g,i,j);
-                    co++;
+                    c++;
                 }
              }
         }
-        return co;
+        return c;
     }
     public void makezero(char[][] g,int i,int j) {
         int r=g.length;
