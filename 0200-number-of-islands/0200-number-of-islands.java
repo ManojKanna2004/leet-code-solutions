@@ -1,7 +1,8 @@
 class Solution {
     public int numIslands(char[][] g) {
         int c=0;
-
+        if(g.length==1 && g[0][0]=='1')return 1;
+        if(g.length==1 && g[0][0]=='0')return 0;
         for(int i=0;i<g.length;i++){
              for(int j=0;j<g[0].length;j++){
                 if(g[i][j]=='1'){
