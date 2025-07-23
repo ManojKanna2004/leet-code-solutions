@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0455-assign-cookies) |
@@ -310,17 +311,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0861-flipping-an-image) |
 | [1094-matrix-cells-in-distance-order](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
