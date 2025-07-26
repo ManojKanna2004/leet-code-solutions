@@ -421,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
