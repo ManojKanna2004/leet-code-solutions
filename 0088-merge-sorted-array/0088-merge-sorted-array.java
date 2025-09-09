@@ -1,24 +1,25 @@
+import java.util.*;
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i=m-1;
-        int j=n-1;
-        int k=m+n-1;
-
-        while(i>=0 && j>=0){
-            if(nums1[i]>=nums2[j]){
-                nums1[k]=nums1[i];
-                i--;
-            }else{
-                nums1[k]=nums2[j];
-                j--;
-            }
-            k--;
+        int[] arr = new int[m + n];
+        
+        // Copy first m elements of nums1
+        for (int i = 0; i < m; i++) {
+            arr[i] = nums1[i];
         }
-        while(j>=0){
-            nums1[k]=nums2[j];
-            j--;
-            k--;
+        
+        // Copy all n elements of nums2
+        for (int i = 0; i < n; i++) {
+            arr[m + i] = nums2[i];
         }
-
+        
+        // Sort merged array
+        Arrays.sort(arr);
+        
+        // Copy back into nums1
+        for (int i = 0; i < m + n; i++) {
+            nums1[i] = arr[i];
+        }
     }
 }
