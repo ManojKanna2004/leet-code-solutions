@@ -1,19 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Set<Integer> org = new HashSet<>();
-        Set<Integer> dup = new HashSet<>();
-
+        int ans=0;
         for(int i=0;i<nums.length;i++){
-            if(!org.contains(nums[i])){
-                org.add(nums[i]);
-            }
-            else{
-                dup.add(nums[i]);
-            }
+            ans= nums[i]^ans;
         }
-        org.removeAll(dup);
-
-        return org.iterator().next();
-        }
-        
+        return ans;
     }
+}
