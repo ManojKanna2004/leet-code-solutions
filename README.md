@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0349-intersection-of-two-arrays) |
