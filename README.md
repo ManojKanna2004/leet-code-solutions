@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0200-number-of-islands) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
