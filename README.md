@@ -431,11 +431,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -456,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/ManojKanna2004/leet-code-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
